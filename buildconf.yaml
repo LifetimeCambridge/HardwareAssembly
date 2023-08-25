@@ -1,0 +1,31 @@
+Affiliation: >-
+  Sensor CDT, Department of Chemical Engineering and Biotechnology, University
+  of Cambridge
+Authors:
+  - Eleni Papafilippou
+  - Nicolas Spiesshofer
+  - Jasper Ward-Berry
+  - Robert Petrie
+  - Jieni Wang
+  - Melissa Watt
+  - Alec Sargood
+  - Thomas Paulik
+  - Aparna Kaaraal Mohan
+CustomCategories:
+  chemical:
+    DisplayName: Chemicals
+    Reuse: true
+  materials:
+    Reuse: true
+    DisplayName: Materials
+  mechcomp:
+    Reuse: true
+    DisplayName: Mechanical Components
+  tools:
+    Reuse: false
+    DisplayName: Tools
+Email: lifetimecambridge@gmail.com
+HoverColor: '#252525'
+License: CERN-OHL-P-2.0
+PrimaryColor: '#4bd339'
+SecondaryColor: '#fefefe'
